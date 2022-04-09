@@ -1,0 +1,17 @@
+element {
+	--main-bg-color: rgb(255, 199, 199);
+  }
+body {
+	background-color: var(--main-bg-color);
+}
+h1 {
+    font: georgia;
+    font-size: 18;
+    font-style: bold;
+}
+.text {
+    font: verdana;
+}
+h2 {
+	color: green;
+}
